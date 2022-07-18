@@ -8,6 +8,7 @@ I am currently working with technologies based on Javascript. Technologies such 
 I do Product Design, Frontend Development and UI Engineering.
 My Design Systems Tech Stack: ReactJS, TailwindCSS
 Languages I know: Javascript, C/C++, Java, SQL, HTML, CSS/SCSS
+
 〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️
 
 My socials are listed below
