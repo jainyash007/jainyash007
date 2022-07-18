@@ -8,9 +8,9 @@ Hello, I am Yash Jain
 
 I am currently working with technologies based on Javascript. Technologies such as ReactJS, NextJS.
 
-I do Product Design, Frontend Development and UI Engineering.
+I do Frontend Development, Backend Development and UI Engineering.
 
-My Design Systems Tech Stack: ReactJS, TailwindCSS.
+My Design Systems Tech Stack: ReactJS, TailwindCSS, Spring Boot.
 
 Languages I know: Javascript, C/C++, Java, SQL, HTML, CSS/SCSS.
 
