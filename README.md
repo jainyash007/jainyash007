@@ -10,7 +10,7 @@ I am currently working with technologies based on Javascript. Technologies such 
 
 I do Frontend Development, Backend Development and UI Engineering.
 
-My Design Systems Tech Stack: ReactJS, TailwindCSS, Spring Boot.
+My Tech Stack: ReactJS, TailwindCSS, Spring Boot.
 
 Languages I know: Javascript, C/C++, Java, SQL, HTML, CSS/SCSS.
 
