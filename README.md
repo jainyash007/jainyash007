@@ -12,7 +12,7 @@ I do Frontend Development, Backend Development and UI Engineering.
 
 My Tech Stack: ReactJS, TailwindCSS, Spring Boot.
 
-Languages I know: Javascript, C/C++, Java, SQL, HTML, CSS/SCSS.
+Languages I know: Javascript, C/C++, Java, MYSQL, HTML, CSS/SCSS.
 
 〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️
 
