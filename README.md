@@ -1,16 +1,19 @@
 Hello, I am Yash Jain
 
 〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️
+
 My work experience
 
 🟢 Worked as a SDE Intern at LoveLocal(Mpanni Solutions Pvt. Ltd.).
 
 〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️
+
 Resume - 
 
 https://drive.google.com/file/d/1LGbidQyJ5R8dXjOWL623qCscqQ2WtXgG/view?usp=drive_link
 
 〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️
+
 ♂️ Pronouns (He/His/Him)
 
 📍 I live in Indore, India
@@ -24,6 +27,7 @@ My Tech Stack: ReactJS, Hibernate, Servlets, JSP, JDBC.
 Languages I know: Javascript, C/C++, Java, MYSQL, HTML, CSS/SCSS.
 
 〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️
+
 My socials are listed below
 
 Twitter at https://twitter.com/home 
