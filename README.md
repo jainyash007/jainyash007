@@ -10,7 +10,7 @@ My work experience
 
 Resume - 
 
-https://drive.google.com/file/d/14SPlvdxmR38SD-pIF87-HC62SA27PxEH/view?usp=drive_link
+https://drive.google.com/file/d/1cwFln_6C7aKP4kSUkKAz8o4SHdpkWcxT/view?usp=share_link
 
 〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️
 
